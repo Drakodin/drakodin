@@ -27,6 +27,16 @@
 * Tensorflow w/ Keras
 * Tesseract
 
+## 🏆 Hackathon Projects
+* PayCord - Chatbot for Discord to handle financial transactions between users on the platform, especially those involving the sale of video game content. Project developed for HackGT 6: Into the Rabbit Hole
+* The MoMA Bot - Bot account on Twitch that controls an Arduino's movements using chat messages. Delay is standard Twitch stream delay. The Arduino sat on a canvas and viewers could control the bot to paint whatever they wished. Developed for HackGT Horizons 2020
+* [Unbias.ly](https://github.com/Drakodin/hackgt2020-unbias.ly) - A news aggregator for political news in India and article ranker for HackGT 7: Reimagine Reality. **Won MLH's Best Use of DataStax Astra**. 
+
+### Devpost Links
+- [PayCord](https://devpost.com/software/paycord)
+- [The MoMA Bot](https://devpost.com/software/the-modern-art-bot)
+- [Unbias.ly](https://devpost.com/software/unbias-ly)
+
 ## ⚡ Fun facts
 🎨 Outside of coding, Krita is my favorite application just because I like to draw in my free time.
 
