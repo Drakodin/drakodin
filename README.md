@@ -1,7 +1,7 @@
 ## 💡 Active Projects
 * [material-ui-dropdown](https://github.com/Drakodin/material-ui-dropdown) - Dropdown component for React in the Material UI style for use in pages and/or forms. Differs from the combo-box or checkbox autocomplete component due to the use of a fixed number of inputs.
 * [drakodin.github.io](https://drakodin.github.io) - WIP portfolio website to present active and past projects. Demo for the prior project available.
-* Private/Unreleased project with a React front-end, Flask back-end, Apache Cassandra database, and Tesseract image processing on the server-side
+* A Count von Count Discord Bot
 
 ## 🌱 Topics associated with current projects
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
