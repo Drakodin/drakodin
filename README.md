@@ -2,7 +2,7 @@
 * [material-ui-dropdown](https://github.com/Drakodin/material-ui-dropdown) - Dropdown component for React in the Material UI style for use in pages and/or forms. Differs from the combo-box or checkbox autocomplete component due to the use of a fixed number of inputs.
 * [drakodin.github.io](https://drakodin.github.io) - WIP portfolio website to present active and past projects. Demo for the prior project available.
 * A Count von Count Discord Bot
-* Web Components for a startup idea
+* A web component library, API, and service for a startup idea prototype
 
 ## 🌱 Topics associated with current projects
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
