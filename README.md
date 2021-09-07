@@ -1,14 +1,12 @@
 ## 💡 Active Projects
-* [material-ui-dropdown](https://github.com/Drakodin/material-ui-dropdown) - Dropdown component for React in the Material UI style for use in pages and/or forms. Differs from the combo-box or checkbox autocomplete component due to the use of a fixed number of inputs.
 * [drakodin.github.io](https://drakodin.github.io) - WIP personal website. Note that the LinkedIn name and name used don't match because the former is my legal, the latter is my preferred.
-* A Count von Count Discord Bot
-* A web component library, API, and service for a startup idea prototype
+* A Count von Count Discord bot
+* Icebreaker - A Discord bot to spice up your server!
+* A couple of workshops for my organizations.
 
 ## 🌱 Topics associated with current projects
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [React](https://github.com/facebook/react)
-* [Stencil](https://stenciljs.com/)
-* [Eleventy](https://www.11ty.dev/)
+* Typescript
 
 ## 🌱 Topics associated with active work or personal repositories.
 
