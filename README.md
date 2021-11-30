@@ -3,6 +3,7 @@
 * A Count von Count Discord bot
 * Icebreaker - A Discord bot to spice up your server!
 * A couple of workshops for my organizations.
+* A simple JS file that generates Manhua names (because I'm bored)
 
 ## 🌱 Topics associated with current projects
 * [React](https://github.com/facebook/react)
