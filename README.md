@@ -1,9 +1,7 @@
 ## 💡 Active Projects
 * [drakodin.github.io](https://drakodin.github.io) - WIP personal website. Note that the LinkedIn name and name used don't match because the former is my legal, the latter is my preferred.
-* A Count von Count Discord bot
-* Icebreaker - A Discord bot to spice up your server!
-* A couple of workshops for my organizations.
-* A simple JS file that generates Manhua names (because I'm bored)
+* A few templates for projects
+* A quick, but comprehensive JS tutorial repo
 
 ## 🌱 Topics associated with current projects
 * [React](https://github.com/facebook/react)
