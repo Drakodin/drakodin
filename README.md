@@ -8,6 +8,8 @@
 * Typescript
 
 ## 🌱 Topics associated with active work or personal repositories.
+* Pytorch
+* NLP
 
 ### 🌐 Web Development (Front)
 * Languages: JavaScript, TypeScript, HTML/CSS
