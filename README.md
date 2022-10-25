@@ -20,12 +20,10 @@
 * Tesseract
 * NLTK
 
-## 🏆 Winning Hackathon Projects
-* [Unbias.ly](https://github.com/Drakodin/hackgt2020-unbias.ly) - A news aggregator for political news in India and article ranker for HackGT 7: Reimagine Reality. **Won MLH's Best Use of DataStax Astra**.
+## 🏆 Featured Hackathon Projects
 * Contact Congress - An interactive map of congressional districts which will display your district's representative, their party, their phone number, and their official congress site developed for queer_hack 2021. From the name, the aim is better allow citizens of the United States to find out who their representative is and better facilitate them to send their thoughts to their representatives, especially concerning sociopolitical matters. **Won Best Use of Google Cloud and Best Hack for Social Good**
 
 ### Devpost Links
-- [Unbias.ly](https://devpost.com/software/unbias-ly)
 - [Contact Congress](https://devpost.com/software/contact-congress)
 
 ## 💬 Ask me about
