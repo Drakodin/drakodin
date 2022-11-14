@@ -1,5 +1,5 @@
 ## 💡 Active Projects
-* [drakodin.github.io](https://drakodin.github.io) - WIP personal website. Note that the LinkedIn name and name used don't match because the former is my legal, the latter is my preferred.
+* [drakodin.github.io](https://drakodin.github.io) - WIP personal website. Need to update it with local projects as well instead of only the MUI one.
 * Niche AI solutions
 * Art projects using JS and SCSS
 
