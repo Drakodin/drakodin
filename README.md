@@ -1,7 +1,6 @@
 ## 💡 Active Projects
 * [drakodin.github.io](https://drakodin.github.io) - WIP Static site with links to all my other GHPages deployments.
 * Niche AI solutions
-* Art projects using JS and SCSS
 * MntJS - A TS library and likely Node module that can load files using the public URL with options to control how the loading is done.
 
 ## 🌱 Topics associated with current projects
@@ -32,7 +31,7 @@ Anything!
 
 ## ⚡ Fun facts
 🎨 I draw sometimes when I'm bored.
-
+😄 Pronouns: she/they
 🏳️‍🌈 TQ
 
 <!--
@@ -46,6 +45,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
