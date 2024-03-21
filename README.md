@@ -32,7 +32,7 @@ Anything!
 ## ⚡ Fun facts
 🎨 I draw sometimes when I'm bored.
 😄 Pronouns: she/they
-🏳️‍🌈 TQ
+🏳️‍🌈 
 
 <!--
 **Drakodin/drakodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
