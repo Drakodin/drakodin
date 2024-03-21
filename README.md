@@ -30,8 +30,10 @@
 Anything!
 
 ## ⚡ Fun facts
-🎨 I draw sometimes when I'm bored.
+🎨 I love sketching and calm music
+
 😄 Pronouns: she/they
+
 🏳️‍🌈 
 
 <!--
