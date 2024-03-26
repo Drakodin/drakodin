@@ -1,5 +1,6 @@
 ## 💡 Active Projects
-* [drakodin.github.io](https://drakodin.github.io) - WIP Static site with links to all my other GHPages deployments.
+* Overhaul of portfolio site called DRAK.os
+* Website for TDOV: [drakodin.github.io/tdov](drakodin.github.io/tdov)
 * Niche AI solutions
 * Many small art pieces, mainly using CSS and Sass.
 
