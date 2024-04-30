@@ -1,14 +1,14 @@
 ## 💡 Active Projects
 * Overhaul of portfolio site called DRAK.os
+* Web port of a project from college
 * Website for TDOV: [drakodin.github.io/tdov](drakodin.github.io/tdov)
-* Niche AI solutions
 * Many small art pieces, mainly using CSS and Sass.
 
 ## 🌱 Topics associated with current projects
 * [React](https://github.com/facebook/react)
 * Typescript
-* PyTorch
-* Automata
+* CSS/Sass
+* Java
 
 ## 🌱 Topics associated with active work or personal repositories.
 * PyTorch
