@@ -2,7 +2,7 @@ Welcome to my profile, look at these here things! If you want my professional st
 
 ## 💡 Active Projects
 * DRAK.os (inactive)
-* Website for TDOV: [drakodin.github.io/tdov](drakodin.github.io/tdov)
+* Website for TDOV: [drakodin.github.io/tdov](https://drakodin.github.io/tdov)
 * Many small art pieces, mainly using CSS and Sass.
 
 ## 🌱 Topics associated with current projects
